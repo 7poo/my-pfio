@@ -45,24 +45,6 @@ python -m streamlit run app.py
 
 ---
 
-## 🛠️ Quản Lý Phiên Bản (Git)
-
-Để đẩy code lên GitHub/GitLab:
-
-1. **Khởi tạo Repo (nếu chưa có)**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Complete Dashboard & AI Logic V4"
-   ```
-
-2. **Kết nối với Remote Repository**
-   Tạo một repo mới trên GitHub, sau đó chạy:
-   ```bash
-   git remote add origin <LINK_REPO_CUA_BAN>
-   git branch -M main
-   git push -u origin main
-   ```
 
 ## 📂 Cấu Trúc Thư Mục
 ```
